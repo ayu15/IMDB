@@ -1,0 +1,36 @@
+.content-wrapper{
+    margin-top: 30px;
+    width:450px;
+}
+.title{
+    /* width: 450px; */
+    padding: 15px;
+    background: grey;
+    color: white;
+}
+/* .body-wrapper{
+    width: 450px;
+} */
+.left-body,.right-body{
+    float: left;
+}
+.right-body{
+    background: skyblue;
+    font-weight: bold;
+    height: 160px;
+    width: 130px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.type,.year{
+    margin-bottom: 20px;
+}
+.left-body{
+    width: 300px;
+}
+.clear{
+    clear: both;
+}
+.hide{
+    display:none;
+}
